@@ -1,1 +1,1 @@
-# simongame
+This is a project I worked on during the Web Development Bootcamp class on Udemy. It is a one-page dynamic website implementing the famous game Simon. The project combined working with JavaScript, HTML and CSS.
